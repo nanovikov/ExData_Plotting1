@@ -1,3 +1,7 @@
+# Load required libraries
+library(lubridate) 
+library(dplyr)
+
 # Read a subset of the data from the dates of 
 # 2007-02-01 and 2007-02-02
 #
